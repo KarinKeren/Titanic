@@ -1,2 +1,2 @@
 # Titanic
-Titanic ML Kaggle competition
+Titanic Kaggle competition
